@@ -22,4 +22,9 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+<<<<<<< HEAD
 
+=======
+DesafioControleFluxo/src/Contador.java
+DesafioControleFluxo/.vscode/settings.json
+>>>>>>> 857223b0cf4a33f35cea5d403db6c5454266430c
